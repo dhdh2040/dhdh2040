@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://img.shields.io/badge/<"ICAN">-<"DOHEE">-<lightblue>
+https://img.shields.io/badge/<ICAN>-<DOHEE>-<lightblue>
 <!--
 **dhdh2040/dhdh2040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
